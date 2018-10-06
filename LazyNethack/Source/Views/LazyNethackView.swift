@@ -10,7 +10,6 @@ import Foundation
 import ScreenSaver
 import WebKit
 
-@objc(LazyNethackView)
 class LazyNethackView: ScreenSaverView,
                        WebEditingDelegate,
                        WebFrameLoadDelegate,

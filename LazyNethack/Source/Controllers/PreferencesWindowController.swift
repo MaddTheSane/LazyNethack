@@ -8,7 +8,6 @@
 
 import Cocoa
 
-@objc(PreferencesWindowController)
 class PreferencesWindowController: NSWindowController {
     @IBOutlet weak var rowWidthSegment: NSSegmentedControl!
     

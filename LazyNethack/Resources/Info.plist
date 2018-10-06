@@ -23,6 +23,6 @@
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
-	<string>LazyNethackView</string>
+	<string>$(PRODUCT_MODULE_NAME).LazyNethackView</string>
 </dict>
 </plist>
